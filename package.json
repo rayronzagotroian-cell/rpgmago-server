@@ -1,0 +1,9 @@
+{
+  "name": "rpgmago-server",
+  "version": "1.0.0",
+  "description": "Servidor multiplayer do RPG do Mago (WebSocket)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
